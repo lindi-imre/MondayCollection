@@ -1,0 +1,6 @@
+D:\windowsform\MondayCollection\MondayCollection\bin\Debug\MondayCollection.exe.config
+D:\windowsform\MondayCollection\MondayCollection\bin\Debug\MondayCollection.exe
+D:\windowsform\MondayCollection\MondayCollection\bin\Debug\MondayCollection.pdb
+D:\windowsform\MondayCollection\MondayCollection\obj\Debug\MondayCollection.csprojResolveAssemblyReference.cache
+D:\windowsform\MondayCollection\MondayCollection\obj\Debug\MondayCollection.exe
+D:\windowsform\MondayCollection\MondayCollection\obj\Debug\MondayCollection.pdb
